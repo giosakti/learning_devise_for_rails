@@ -45,3 +45,8 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'devise'
+
+# OmniAuth
+gem 'omniauth'
+gem 'omniauth-twitter'
+gem 'omniauth-facebook'
